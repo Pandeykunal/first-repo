@@ -1,4 +1,4 @@
-# Kunali Personal Website
+# Kunal Personal Website
 
 ## Authors
 - Naman Arora
